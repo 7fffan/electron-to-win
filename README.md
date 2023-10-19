@@ -20,7 +20,7 @@ npm run dist-linux
 
 # 注意事项
 
-每次打包的时候都需要删除前一次的 Cache 留下的内容
+每次打包的时候都需要删除前一次的 Cache 下的内容
 
 - Windows
 
@@ -41,6 +41,7 @@ npm run dist-linux
 |Winodws|MacOS|Linux|
 | --- | --- | --- |
 |.ico|.icns|.png|
+
 特别注意的是 各个平台的图标必须是 256x256
 
 # main.js
