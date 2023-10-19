@@ -20,7 +20,7 @@ npm run dist-linux
 
 # 注意事项
 
-每次打包的时候都需要删除前一次的 Cache
+每次打包的时候都需要删除前一次的 Cache 留下的内容
 
 - Windows
 
