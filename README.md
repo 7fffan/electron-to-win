@@ -22,10 +22,13 @@ npm run dist-linux
  - 每次打包的时候都需要删除前一次的 Cache
 
 - Windows
+
 删除 C:\Users\xx\AppData\Local\electron-builder\Cache\ 下的所有内容
 
 删除 C:\Users\gs\AppData\Local\electron\Cache\ 下的所有内容
+
 - Linux
+
 删除 ~/.cache/electron/*
 
 删除 ~/.cache/electron-builder/*
