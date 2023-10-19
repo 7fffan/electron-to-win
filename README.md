@@ -1,17 +1,13 @@
 # 打包教程
-安装依赖
-
-npm install
-
+ - 安装依赖
+    - npm install
+    
 开始打包
 
-windows
-
-npm run dist-win
-
-linux
-
-npm run dist-linux
+- windows
+    - run dist-win
+- linux
+    - npm run dist-linux
 
 # 已有功能
 - 托盘菜单：显示，退出
