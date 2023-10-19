@@ -36,7 +36,7 @@ npm run dist-linux
 
 每次打包时，都需要清空 dist 文件夹里的内容，或者直接删除 dist 文件夹
 
-各平台打包 icon
+# 各平台打包 icon
 
 |Winodws|MacOS|Linux|
 | --- | --- | --- |
