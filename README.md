@@ -1,3 +1,17 @@
+# main.js
+
+修改 URL 参数; 即服务访问地址
+
+修改 Tip_Tit 参数; 即鼠表放在任务栏图标上的提示，需和 packag.json 中的 description 内容一致
+
+# package.json
+
+name: 即 APP 的名字
+
+build 中 的 productName 也是 APP 的 名字
+
+description: 即 打包后鼠标放在任务栏图标上显示的文字
+
 # 打包教程
  - 安装依赖
     - npm install
@@ -39,17 +53,3 @@
 |.ico|.icns|.png|
 
 特别注意的是 各个平台的图标必须是 256x256
-
-# main.js
-
-修改 URL 参数; 即服务访问地址
-
-修改 Tip_Tit 参数; 即鼠表放在任务栏图标上的提示，需和 packag.json 中的 description 内容一致
-
-# package.json
-
-name: 即 APP 的名字
-
-build 中 的 productName 也是 APP 的 名字
-
-description: 即 打包后鼠标放在任务栏图标上显示的文字
